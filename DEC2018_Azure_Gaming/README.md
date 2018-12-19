@@ -11,3 +11,5 @@
 <h3>4. Azure Monitoring</h3>
 
 <h2> 2018년 12월 20일(목) : Azure SQL </h2>
+
+<h3> TBU </h3>
