@@ -12,4 +12,11 @@
 
 <h2> 2018년 12월 20일(목) : Azure SQL </h2>
 
-<h3> TBU </h3>
+<h3>1. Azure SQL 게임 사례 소개 </h3> 
+
+<h3>2. Azure SQL Database </h3>
+
+<h3>3. Azure SQL Managed Instance </h3>
+
+<h3>4. Azure COSMOS </h3>
+
