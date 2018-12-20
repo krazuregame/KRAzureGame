@@ -18,5 +18,5 @@
 
 <h3>3. Azure SQL Managed Instance </h3>
 
-<h3>4. Azure COSMOS </h3>
+<h3>4. Azure COSMOS DB </h3>
 
